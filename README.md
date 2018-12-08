@@ -17,10 +17,10 @@ The total net amount of "Profit/Losses" over the entire period
    Financial Analysis
    
    Total Months: 86
-   Total: $38382578
-   Average  Change: $-2315.12
-   Greatest Increase in Profits: Feb-2012 ($1926159)
-   Greatest Decrease in Profits: Sep-2013 ($-2196167)
+   Total: $38,382,578
+   Average  Change: $-2,315.12
+   Greatest Increase in Profits: Feb-2012 ($1,926,159)
+   Greatest Decrease in Profits: Sep-2013 ($-2,196,167)
 
  In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
@@ -42,12 +42,12 @@ The total net amount of "Profit/Losses" over the entire period
  
    Election Results
   
-   Total Votes: 3521001
+   Total Votes: 3,521,001
   
-   Khan: 63.000% (2218231)
-   Correy: 20.000% (704200)
-   Li: 14.000% (492940)
-   O'Tooley: 3.000% (105630)
+   Khan: 63.000% (2,218,231)
+   Correy: 20.000% (704,200)
+   Li: 14.000% (492,940)
+   O'Tooley: 3.000% (105,630)
    
    Winner: Khan
   
